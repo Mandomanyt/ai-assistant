@@ -1,0 +1,12 @@
+requests
+langchain
+chromadb
+duckduckgo-search
+pyautogui
+openai-whisper
+pyttsx3
+sounddevice
+scipy
+appopener
+schedule
+rich
